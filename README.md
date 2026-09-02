@@ -108,6 +108,4 @@ The faucet interacts with a smart contract deployed on the **Sepolia testnet**:
 - **Network**: Ethereum Sepolia (Chain ID `11155111`)
 - **Contract**: `0xe7378d385B6998F54146DaE5AEDf28f3Ac5b4ed7`
 
-## License
 
-MIT
